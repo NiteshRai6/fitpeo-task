@@ -29,7 +29,7 @@ export default function OrderTable() {
 
                         <tr>
                             <td className='flex justify-end items-center'>
-                                <img src='/user.png' alt='user'
+                                <img src='/fitpeo-task/user.png' alt='user'
                                     className='w-10 h-10 rounded-full' />
                             </td>
                             <td>Wade Warren</td>
@@ -51,7 +51,7 @@ export default function OrderTable() {
 
                         <tr>
                             <td className='flex justify-end items-center'>
-                                <img src='/user.png' alt='user'
+                                <img src='/fitpeo-task/user.png' alt='user'
                                     className='w-10 h-10 rounded-full' />
                             </td>
                             <td>Jane Cooper</td>
@@ -73,7 +73,7 @@ export default function OrderTable() {
 
                         <tr>
                             <td className='flex justify-end items-center'>
-                                <img src='/user.png' alt='user'
+                                <img src='/fitpeo-task/user.png' alt='user'
                                     className='w-10 h-10 rounded-full' />
                             </td>
                             <td>Guy Hawkins</td>
@@ -95,7 +95,7 @@ export default function OrderTable() {
 
                         <tr>
                             <td className='flex justify-end items-center'>
-                                <img src='/user.png' alt='user'
+                                <img src='/fitpeo-task/user.png' alt='user'
                                     className='w-10 h-10 rounded-full' />
                             </td>
                             <td>Kristin Watson</td>
@@ -117,7 +117,7 @@ export default function OrderTable() {
 
                         <tr>
                             <td className='flex justify-end items-center'>
-                                <img src='/user.png' alt='user'
+                                <img src='/fitpeo-task/user.png' alt='user'
                                     className='w-10 h-10 rounded-full' />
                             </td>
                             <td>Cody Fisher</td>
@@ -139,7 +139,7 @@ export default function OrderTable() {
 
                         <tr>
                             <td className='flex justify-end items-center'>
-                                <img src='/user.png' alt='user'
+                                <img src='/fitpeo-task/user.png' alt='user'
                                     className='w-10 h-10 rounded-full' />
                             </td>
                             <td>Savannah Nguyen</td>

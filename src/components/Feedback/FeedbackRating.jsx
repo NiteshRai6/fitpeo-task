@@ -10,7 +10,7 @@ export default function FeedbackRating() {
 
                 <div className='flex flex-col gap-2'>
                     <div className='flex gap-2 items-center'>
-                        <img src='/user.png' alt='user'
+                        <img src='/fitpeo-task/user.png' alt='user'
                             className='w-10 h-10 rounded-full' />
                         <span className='text-lg xl:text-xl'>Jenny Wilson</span>
                     </div>
@@ -26,7 +26,7 @@ export default function FeedbackRating() {
 
                 <div className='flex flex-col gap-2'>
                     <div className='flex gap-2 items-center'>
-                        <img src='/user.png' alt='user'
+                        <img src='/fitpeo-task/user.png' alt='user'
                             className='w-10 h-10 rounded-full' />
                         <span className='text-lg xl:text-xl'>Dianne Russell</span>
                     </div>
@@ -41,7 +41,7 @@ export default function FeedbackRating() {
 
                 <div className='flex flex-col gap-2'>
                     <div className='flex gap-2 items-center'>
-                        <img src='/user.png' alt='user'
+                        <img src='/fitpeo-task/user.png' alt='user'
                             className='w-10 h-10 rounded-full' />
                         <span className='text-lg xl:text-xl'>Devon Lane</span>
                     </div>
