@@ -57,7 +57,7 @@ export default function Topbar({ isSidebarOpen, toggleSidebar }) {
 
                 <div>
                     <img
-                        src='/user.png'
+                        src='/fitpeo-task/user.png'
                         alt='user'
                         className='w-8 h-8 xl:w-10 xl:h-10 rounded-full'
                     />
